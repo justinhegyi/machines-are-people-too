@@ -1,5 +1,6 @@
 # machines-are-people-too
 machine learning capstone: random decision forests
+##################################################
 these trees are actually doubly random - they select a random subset of the data with replacement, and also select a random subset of the attributes to build the tree out of. This is because I noticed that I was basically getting basically the exact same tree as my ID3 over and over if my dataset was large enough.
 
 TO RUN:
