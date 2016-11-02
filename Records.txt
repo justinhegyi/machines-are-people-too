@@ -1,0 +1,25 @@
+w/ RDF using 5 trees where k = 13
+
+breast cancer 
+ID3 96.4%
+RDF 98.8%
+
+monks 1 tr
+ID3 100%
+RDF 87.0%
+
+monks 2 te
+ID3 31.4%
+RDF 55.5%
+
+monks 2 te
+ID3 45.5%
+RDF 45.5%
+
+monks 3 te
+ID3 100%
+RDF 100%
+
+monks 3 te
+ID3 81.3%
+RDF 81.3%
